@@ -1,0 +1,2 @@
+1. Rename the folder and file by adding "." before the name.
+2. This file and folder must be in the home folder.
